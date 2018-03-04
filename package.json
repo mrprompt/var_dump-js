@@ -1,5 +1,5 @@
 {
-  "name": "var_dump",
+  "name": "var_dump-js",
   "version": "0.0.1",
   "description": "var_dump in js",
   "main": "src/index.js",
