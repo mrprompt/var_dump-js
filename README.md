@@ -9,5 +9,5 @@ const var_dump = require('var_dump-js');
 
 const test = { foo: 'barbar' };
 
-var_dump(test);
+console.log(var_dump(test));
 ```
